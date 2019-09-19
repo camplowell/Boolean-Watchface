@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="3" lineNum="27" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="3" lineNum="28" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="3" lineNum="29" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="4" lineNum="33" pc="268435491" symbol="onLayout"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="4" lineNum="34" pc="268435495" symbol="onLayout"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="40" pc="268435533" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="41" pc="268435537" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="42" pc="268435547" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="43" pc="268435575" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="44" pc="268435593" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="5" lineNum="46" pc="268435711" symbol="onShow"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="6" lineNum="50" pc="268435747" symbol="onUpdate"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="6" lineNum="52" pc="268435751" symbol="onUpdate"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="7" lineNum="60" pc="268435766" symbol="onPartialUpdate"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="7" lineNum="61" pc="268435770" symbol="onPartialUpdate"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="65" pc="268435785" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="67" pc="268435789" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="69" pc="268435806" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="70" pc="268435837" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="71" pc="268435847" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="72" pc="268435857" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="75" pc="268435867" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="76" pc="268435889" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="77" pc="268435900" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="79" pc="268435913" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="80" pc="268435926" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="81" pc="268435937" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="85" pc="268435950" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="87" pc="268435993" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="90" pc="268436009" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="91" pc="268436034" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="92" pc="268436046" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="93" pc="268436076" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="96" pc="268436089" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="8" lineNum="98" pc="268436119" symbol="callDraw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="102" pc="268436137" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="103" pc="268436141" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="104" pc="268436160" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="105" pc="268436160" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="106" pc="268436188" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="108" pc="268436200" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="109" pc="268436228" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="110" pc="268436247" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="111" pc="268436276" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="114" pc="268436303" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="115" pc="268436325" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="9" lineNum="116" pc="268436357" symbol="drawFromScratch"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="120" pc="268436382" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="121" pc="268436386" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="122" pc="268436405" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="124" pc="268436405" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="125" pc="268436424" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="127" pc="268436453" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="128" pc="268436467" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="130" pc="268436498" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="132" pc="268436526" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="135" pc="268436559" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="136" pc="268436581" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="138" pc="268436613" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="139" pc="268436618" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="141" pc="268436649" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="143" pc="268436677" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="146" pc="268436710" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="147" pc="268436715" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="149" pc="268436746" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="152" pc="268436774" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="153" pc="268436833" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="10" lineNum="155" pc="268436869" symbol="drawPartial"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="11" lineNum="160" pc="268436903" symbol="deltaTheta"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="11" lineNum="161" pc="268436907" symbol="deltaTheta"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="11" lineNum="162" pc="268436923" symbol="deltaTheta"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="11" lineNum="163" pc="268436934" symbol="deltaTheta"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="11" lineNum="165" pc="268436946" symbol="deltaTheta"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="12" lineNum="168" pc="268436950" symbol="max"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="12" lineNum="169" pc="268436954" symbol="max"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="12" lineNum="170" pc="268436962" symbol="max"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="12" lineNum="172" pc="268436968" symbol="max"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="175" pc="268436972" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="176" pc="268436976" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="177" pc="268436986" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="178" pc="268436996" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="179" pc="268437020" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="180" pc="268437031" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="181" pc="268437041" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="182" pc="268437052" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="13" lineNum="185" pc="268437075" symbol="minmax"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="188" pc="268437103" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="189" pc="268437107" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="190" pc="268437126" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="191" pc="268437136" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="192" pc="268437147" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="194" pc="268437160" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="195" pc="268437179" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="196" pc="268437198" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="197" pc="268437217" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="198" pc="268437236" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="199" pc="268437241" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="202" pc="268437251" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="203" pc="268437316" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="204" pc="268437381" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="205" pc="268437409" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="206" pc="268437437" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="207" pc="268437465" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="14" lineNum="209" pc="268437493" symbol="setClip"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="212" pc="268437556" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="213" pc="268437560" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="214" pc="268437579" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="215" pc="268437627" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="216" pc="268437675" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="218" pc="268437703" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="219" pc="268437723" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="222" pc="268437750" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="223" pc="268437763" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="224" pc="268437777" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="225" pc="268437806" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="228" pc="268437854" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="229" pc="268437882" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="231" pc="268437902" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="232" pc="268437920" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="233" pc="268437954" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="234" pc="268437988" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="236" pc="268438005" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="237" pc="268438025" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="239" pc="268438075" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="243" pc="268438108" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="246" pc="268438124" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="249" pc="268438138" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="250" pc="268438160" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="256" pc="268438280" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="257" pc="268438308" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="15" lineNum="258" pc="268438325" symbol="drawAccents"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="264" pc="268438380" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="265" pc="268438384" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="266" pc="268438389" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="269" pc="268438400" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="272" pc="268438445" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="273" pc="268438453" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="16" lineNum="275" pc="268438492" symbol="handArc"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="17" lineNum="283" pc="268438535" symbol="onHide"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="17" lineNum="284" pc="268438539" symbol="onHide"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="17" lineNum="285" pc="268438549" symbol="onHide"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="18" lineNum="289" pc="268438578" symbol="onExitSleep"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceView.mc" id="19" lineNum="293" pc="268438583" symbol="onEnterSleep"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="21" lineNum="6" pc="268438588" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="21" lineNum="7" pc="268438592" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="22" lineNum="11" pc="268438611" symbol="onStart"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="23" lineNum="15" pc="268438616" symbol="onStop"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="24" lineNum="19" pc="268438621" symbol="getInitialView"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="24" lineNum="20" pc="268438625" symbol="getInitialView"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="25" lineNum="24" pc="268438663" symbol="onSettingsChanged"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceApp.mc" id="25" lineNum="25" pc="268438667" symbol="onSettingsChanged"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="27" lineNum="7" pc="268438684" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="27" lineNum="8" pc="268438688" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="27" lineNum="12" pc="268438709" symbol="initialize"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="28" lineNum="15" pc="268438730" symbol="draw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="28" lineNum="17" pc="268438734" symbol="draw"/>
+        <entry filename="/Users/lolwel21camp/Documents/Eclipse Workspace/Connect IQ/Boolean Watchface/source/BooleanWatchfaceBackground.mc" id="28" lineNum="18" pc="268438787" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="29" pc="268438800" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="33" pc="268438812" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="34" pc="268438836" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="35" pc="268439007" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="36" pc="268439040" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="37" pc="268439092" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="40" pc="268439138" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="36" symbol="showSecs"/>
+        <entry id="9" object="true" symbol="BooleanWatchfaceView"/>
+        <entry id="41" method="true" symbol="drawPartial"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="15" symbol="ColorBlue"/>
+        <entry field="true" id="38" symbol="dotCoords"/>
+        <entry field="true" id="24" symbol="sixtyAngle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="45" method="true" symbol="drawAccents"/>
+        <entry field="true" id="22" symbol="ColorWhite"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="21" symbol="ColorBlack"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="32" symbol="dotRadius"/>
+        <entry field="true" id="16" symbol="ColorRed"/>
+        <entry id="40" method="true" symbol="drawFromScratch"/>
+        <entry field="true" id="31" symbol="centerSize"/>
+        <entry field="true" id="17" symbol="ForegroundColorTitle"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry id="44" method="true" symbol="minmax"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="42" method="true" symbol="deltaTheta"/>
+        <entry field="true" id="29" symbol="hrSizeSec"/>
+        <entry field="true" id="35" symbol="handSize"/>
+        <entry field="true" id="26" symbol="hrTick"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="37" symbol="needsFullUpdate"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="33" symbol="degConv"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="19" symbol="ColorDarkGray"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="14" symbol="ColorLightGray"/>
+        <entry field="true" id="30" symbol="hrSizeNoSec"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="18" symbol="BackgroundColorTitle"/>
+        <entry id="10" object="true" symbol="BooleanWatchfaceApp"/>
+        <entry id="8390103" method="true" symbol="setClip"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry field="true" id="27" symbol="minSizeSec"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="34" symbol="accentSize"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="43" method="true" symbol="max"/>
+        <entry field="true" id="28" symbol="minSizeNoSec"/>
+        <entry id="11" module="true" symbol="Menus"/>
+        <entry id="46" method="true" symbol="handArc"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="39" method="true" symbol="callDraw"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="25" symbol="twelveAngle"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435533" name="dc" stackId="1" startPc="268435491"/>
+        <entry endPc="268435711" name="angle" stackId="1" startPc="268435593"/>
+        <entry endPc="268435766" name="dc" stackId="1" startPc="268435747"/>
+        <entry endPc="268435785" name="dc" stackId="1" startPc="268435766"/>
+        <entry endPc="268436133" name="minClockwise" stackId="9" startPc="268435837"/>
+        <entry endPc="268436133" name="hour" stackId="3" startPc="268435837"/>
+        <entry endPc="268436133" name="hrClockwise" stackId="8" startPc="268435837"/>
+        <entry endPc="268436133" name="min" stackId="4" startPc="268435837"/>
+        <entry endPc="268436133" name="sec" stackId="5" startPc="268435837"/>
+        <entry endPc="268436133" name="minAngle" stackId="7" startPc="268435837"/>
+        <entry endPc="268436133" name="hrAngle" stackId="6" startPc="268435837"/>
+        <entry endPc="268436136" name="clockTime" stackId="2" startPc="268435789"/>
+        <entry endPc="268436137" name="dc" stackId="1" startPc="268435785"/>
+        <entry endPc="268436381" name="rad" stackId="8" startPc="268436141"/>
+        <entry endPc="268436381" name="displayRad" stackId="7" startPc="268436141"/>
+        <entry endPc="268436382" name="minClockwise" stackId="5" startPc="268436137"/>
+        <entry endPc="268436382" name="hrSize" stackId="2" startPc="268436137"/>
+        <entry endPc="268436382" name="dc" stackId="1" startPc="268436137"/>
+        <entry endPc="268436382" name="hrClockwise" stackId="6" startPc="268436137"/>
+        <entry endPc="268436382" name="minAngle" stackId="3" startPc="268436137"/>
+        <entry endPc="268436382" name="hrAngle" stackId="4" startPc="268436137"/>
+        <entry endPc="268436902" name="rad" stackId="8" startPc="268436386"/>
+        <entry endPc="268436902" name="displayRad" stackId="7" startPc="268436386"/>
+        <entry endPc="268436903" name="minClockwise" stackId="5" startPc="268436382"/>
+        <entry endPc="268436903" name="hrSize" stackId="2" startPc="268436382"/>
+        <entry endPc="268436903" name="dc" stackId="1" startPc="268436382"/>
+        <entry endPc="268436903" name="hrClockwise" stackId="6" startPc="268436382"/>
+        <entry endPc="268436903" name="minAngle" stackId="3" startPc="268436382"/>
+        <entry endPc="268436903" name="hrAngle" stackId="4" startPc="268436382"/>
+        <entry endPc="268436949" name="delta" stackId="3" startPc="268436907"/>
+        <entry endPc="268436950" name="b" stackId="2" startPc="268436903"/>
+        <entry endPc="268436950" name="a" stackId="1" startPc="268436903"/>
+        <entry endPc="268436972" name="b" stackId="2" startPc="268436950"/>
+        <entry endPc="268436972" name="a" stackId="1" startPc="268436950"/>
+        <entry endPc="268437075" name="i" stackId="4" startPc="268437020"/>
+        <entry endPc="268437102" name="max" stackId="3" startPc="268436976"/>
+        <entry endPc="268437102" name="min" stackId="2" startPc="268436976"/>
+        <entry endPc="268437103" name="list" stackId="1" startPc="268436972"/>
+        <entry endPc="268437555" name="x" stackId="11" startPc="268437107"/>
+        <entry endPc="268437555" name="currentY" stackId="10" startPc="268437107"/>
+        <entry endPc="268437555" name="currentX" stackId="9" startPc="268437107"/>
+        <entry endPc="268437555" name="prevIndex" stackId="6" startPc="268437107"/>
+        <entry endPc="268437555" name="prevY" stackId="8" startPc="268437107"/>
+        <entry endPc="268437555" name="prevX" stackId="7" startPc="268437107"/>
+        <entry endPc="268437555" name="displayRad" stackId="5" startPc="268437107"/>
+        <entry endPc="268437555" name="y" stackId="12" startPc="268437107"/>
+        <entry endPc="268437556" name="activeIndex" stackId="2" startPc="268437103"/>
+        <entry endPc="268437556" name="coreSize" stackId="3" startPc="268437103"/>
+        <entry endPc="268437556" name="dc" stackId="1" startPc="268437103"/>
+        <entry endPc="268437556" name="topY" stackId="4" startPc="268437103"/>
+        <entry endPc="268438264" name="rad" stackId="10" startPc="268438138"/>
+        <entry endPc="268438267" name="x" stackId="8" startPc="268437920"/>
+        <entry endPc="268438267" name="y" stackId="9" startPc="268437920"/>
+        <entry endPc="268438280" name="i" stackId="7" startPc="268437920"/>
+        <entry endPc="268438379" name="todayShort" stackId="4" startPc="268437560"/>
+        <entry endPc="268438379" name="dispRad" stackId="2" startPc="268437560"/>
+        <entry endPc="268438379" name="diam" stackId="5" startPc="268437560"/>
+        <entry endPc="268438379" name="today" stackId="3" startPc="268437560"/>
+        <entry endPc="268438379" name="batteryAngle" stackId="6" startPc="268437560"/>
+        <entry endPc="268438380" name="dc" stackId="1" startPc="268437556"/>
+        <entry endPc="268438535" name="b" stackId="6" startPc="268438380"/>
+        <entry endPc="268438535" name="rad" stackId="3" startPc="268438380"/>
+        <entry endPc="268438535" name="a" stackId="5" startPc="268438380"/>
+        <entry endPc="268438535" name="dc" stackId="1" startPc="268438380"/>
+        <entry endPc="268438535" name="clockwise" stackId="4" startPc="268438380"/>
+        <entry endPc="268438535" name="displayRad" stackId="2" startPc="268438380"/>
+        <entry endPc="268438616" name="state" stackId="1" startPc="268438611"/>
+        <entry endPc="268438621" name="state" stackId="1" startPc="268438616"/>
+        <entry endPc="268438729" name="dictionary" stackId="1" startPc="268438688"/>
+        <entry endPc="268438800" name="dc" stackId="1" startPc="268438730"/>
+        <entry endPc="268439165" name="rez_cmp_local_bitmap_DayOfWeek" stackId="3" startPc="268438812"/>
+        <entry endPc="268439165" name="rez_cmp_local_bitmap_DayOfWeek_fontHeight" stackId="4" startPc="268438812"/>
+        <entry endPc="268439165" name="rez_cmp_local_custom_drawable_18567835083439892322" stackId="2" startPc="268438812"/>
+        <entry endPc="268439166" name="dc" stackId="1" startPc="268438800"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BooleanWatchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="BooleanWatchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="callDraw" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawFromScratch" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <param id="hrSize"/>
+            <param id="minAngle"/>
+            <param id="hrAngle"/>
+            <param id="minClockwise"/>
+            <param id="hrClockwise"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPartial" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <param id="hrSize"/>
+            <param id="minAngle"/>
+            <param id="hrAngle"/>
+            <param id="minClockwise"/>
+            <param id="hrClockwise"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="deltaTheta" parent="BooleanWatchfaceView">
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="max" parent="BooleanWatchfaceView">
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="minmax" parent="BooleanWatchfaceView">
+            <param id="list"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setClip" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <param id="activeIndex"/>
+            <param id="coreSize"/>
+            <param id="topY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawAccents" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="handArc" parent="BooleanWatchfaceView">
+            <param id="dc"/>
+            <param id="displayRad"/>
+            <param id="rad"/>
+            <param id="clockwise"/>
+            <param id="a"/>
+            <param id="b"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="BooleanWatchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="BooleanWatchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="BooleanWatchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BooleanWatchfaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="BooleanWatchfaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="BooleanWatchfaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="BooleanWatchfaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="BooleanWatchfaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="417" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="448" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="487" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="598" parentId="globals" symbolId="BooleanWatchfaceApp" type="class"/>
+        <dataEntry offset="677" parentId="globals" symbolId="BooleanWatchfaceView" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
